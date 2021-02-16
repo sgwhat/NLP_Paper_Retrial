@@ -7,3 +7,4 @@ This is the collection of NLP papers published recently
 
 ## Transformer
   1. Reformer: The Efficient Transformer https://arxiv.org/abs/2001.04451
+  2. GRET: Global Representation Enhanced Transformer https://arxiv.org/abs/2002.10101
