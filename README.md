@@ -21,3 +21,4 @@ This is the collection of NLP papers published recently;
   2. Latent Relation Language Models https://arxiv.org/abs/1908.07690
   3. A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks https://arxiv.org/abs/1811.06031
   4. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension https://arxiv.org/abs/1910.13461
+  5. A Survey on Knowledge Graphs: Representation, Acquisition and Applications https://arxiv.org/abs/2002.00388
