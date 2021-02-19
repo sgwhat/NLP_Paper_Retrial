@@ -18,3 +18,4 @@ This is the collection of NLP papers published recently
 ## Knowledge Discovery
   1. Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model https://openreview.net/forum?id=BJlzm64tDH
   2. Latent Relation Language Models https://arxiv.org/abs/1908.07690
+  3. A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks https://arxiv.org/abs/1811.06031
