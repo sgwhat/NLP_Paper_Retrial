@@ -2,7 +2,7 @@
 This is the collection of NLP papers published recently;
 
 ## BERT
-  1. Incorporating BERT into Neural Machine Translation https://openreview.net/forum?id=Hyl7ygStwB
+  1. Incorporating BERT into Neural Machine Translation [ICLR](https://openreview.net/forum?id=Hyl7ygStwB)
   2. A Mutual Information Maximization Perspective of Language Representation Learning https://openreview.net/forum?id=Syx79eBKwr
   3. Cross-Lingual Ability of Multilingual BERT: An Empirical Study https://openreview.net/forum?id=HJeT3yrtDr
   4. Inducing Relational Knowledge from BERT https://arxiv.org/abs/1911.12753
