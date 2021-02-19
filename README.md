@@ -19,3 +19,4 @@ This is the collection of NLP papers published recently
   1. Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model https://openreview.net/forum?id=BJlzm64tDH
   2. Latent Relation Language Models https://arxiv.org/abs/1908.07690
   3. A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks https://arxiv.org/abs/1811.06031
+  4. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension https://arxiv.org/abs/1910.13461
