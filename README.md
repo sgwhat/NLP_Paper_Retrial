@@ -7,6 +7,7 @@ This is the collection of NLP papers published recently;
   3. Cross-Lingual Ability of Multilingual BERT: An Empirical Study [ICLR 2020](https://openreview.net/forum?id=HJeT3yrtDr)
   4. Inducing Relational Knowledge from BERT [AAAI 2020](https://arxiv.org/abs/1911.12753)
   5. tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection [ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.630/)
+  6. Semantics-aware BERT for Language Understanding [AAAI 2020](https://arxiv.org/abs/1909.02209)
  
 ## Transformer
   1. Reformer: The Efficient Transformer [ICLR 2020](https://arxiv.org/abs/2001.04451)
