@@ -21,5 +21,5 @@ This is the collection of NLP papers published recently;
   1. Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model [ICLR 2020](https://openreview.net/forum?id=BJlzm64tDH)
   2. Latent Relation Language Models [AAAI 2020](https://arxiv.org/abs/1908.07690)
   3. A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks [AAAI 2019](https://arxiv.org/abs/1811.06031)
-  4. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension https://arxiv.org/abs/1910.13461
+  4. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension [ACL 2020](https://arxiv.org/abs/1910.13461)
   5. A Survey on Knowledge Graphs: Representation, Acquisition and Applications [AAAI 2020](https://arxiv.org/abs/2002.00388)
