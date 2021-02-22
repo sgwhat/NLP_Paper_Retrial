@@ -27,3 +27,4 @@ This is the collection of NLP papers published recently;
 1. Similarity Analysis of Contextual Word Representation Models [ACL 2020](https://arxiv.org/abs/2005.01172)
 2. Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity [ACL 2020](https://arxiv.org/pdf/1911.03700.pdf)
 3. tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection [ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.630/)
+4. Boosting Neural Machine Translation with Similar Translations [ACL 2020](https://www.aclweb.org/anthology/2020.acl-main.144/)
